@@ -11,7 +11,7 @@ export default function Article({ title, author, description }) {
   );
 }
 
-News.propTypes = {
+Article.propTypes = {
   title: PropTypes.string.isRequired,
   author: PropTypes.string.isRequired,
   content: PropTypes.string.isRequired,
