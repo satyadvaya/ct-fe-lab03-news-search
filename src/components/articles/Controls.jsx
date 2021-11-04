@@ -1,18 +1,28 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-export default function Controls({ newsSearch, onNewsSearchChange, onSubmit }) {
+export default function Controls({
+  searchInput,
+  onSearchInputChange,
+  onSubmit,
+}) {
   return (
     <form onSubmit={onSubmit}>
-      <label htmlFor="newsSearch">News Search </label>
-      <input type="text" value={newsSearch} onChange={onNewsSearchChange} />
+      <label htmlFor="searchInput">Search Input </label>
+      <input
+        id="searchInput"
+        name="searchInput"
+        type="text"
+        value={searchInput}
+        onChange={onSearchInputChange}
+      />
       <button aria-label="get-articles">Get Articles!</button>
     </form>
   );
 }
 
 Controls.propTypes = {
-  newsSearch: PropTypes.string.isRequired,
-  onNewsSearchChange: PropTypes.func.isRequired,
+  searchInput: PropTypes.string.isRequired,
+  onSearchInputChange: PropTypes.func.isRequired,
   onSubmit: PropTypes.func.isRequired,
 };
