@@ -4,15 +4,15 @@ import PropTypes from 'prop-types';
 export default function Article({ title, author, description }) {
   return (
     <>
-      <h2>{title}</h2>
+      <h3>{title}</h3>
       <p>{author}</p>
-      <p>{content}</p>
+      <p>{description}</p>
     </>
   );
 }
 
 Article.propTypes = {
   title: PropTypes.string.isRequired,
-  author: PropTypes.string.isRequired,
-  content: PropTypes.string.isRequired,
+  author: PropTypes.string,
+  description: PropTypes.string.isRequired,
 };

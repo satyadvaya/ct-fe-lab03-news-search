@@ -12,7 +12,11 @@ export default function ArticleList({ articles }) {
 }
 
 ArticleList.propTypes = {
-  title: PropTypes.string.isRequired,
-  author: PropTypes.string.isRequired,
-  content: PropTypes.string.isRequired,
+  articles: PropTypes.arrayOf(
+    PropTypes.shape({
+      title: PropTypes.string.isRequired,
+      author: PropTypes.string,
+      description: PropTypes.string.isRequired,
+    })
+  ),
 };
