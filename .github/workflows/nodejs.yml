@@ -16,4 +16,4 @@ jobs:
       - run: npm test
         env:
           CI: true
-          REACT_APP_NewsAPI_Key: ${{secrets.REACT_APP_NewsAPI_Key}}
+          REACT_APP_NEWSAPI_KEY: ${{secrets.REACT_APP_NEWSAPI_KEY}}
