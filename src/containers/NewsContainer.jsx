@@ -21,7 +21,6 @@ export default class NewsContainer extends Component {
 
   handleSubmit = async (event) => {
     event.preventDefault();
-    console.log('something happened');
     this.setState({ loading: true });
     const articles = await fetchFilteredArticles(this.state.searchInput);
     this.setState({ articles, loading: false });
@@ -33,7 +32,7 @@ export default class NewsContainer extends Component {
     return (
       <>
         {loading ? (
-          <h1>Loading ... </h1>
+          <h1>Loading...</h1>
         ) : (
           <>
             <Controls

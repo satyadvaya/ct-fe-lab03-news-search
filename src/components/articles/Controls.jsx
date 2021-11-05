@@ -8,7 +8,7 @@ export default function Controls({
 }) {
   return (
     <form onSubmit={onSubmit}>
-      <label htmlFor="searchInput">Search Input </label>
+      <label htmlFor="searchInput">Search Input</label>
       <input
         id="searchInput"
         name="searchInput"

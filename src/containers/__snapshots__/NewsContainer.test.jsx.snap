@@ -1,0 +1,292 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shows NewsAPI Articles! should display a list of articles containing an input keyword 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li>
+    <h3>
+      China, India and Other Developing Nations Seek $1.3 Trillion a Year in Climate Finance - The Wall Street Journal
+    </h3>
+    <p>
+      Matthew Dalton
+    </p>
+    <p>
+      &lt;ol&gt;&lt;li&gt;China, India and Other Developing Nations Seek $1.3 Trillion a Year in Climate Finance  The Wall Street Journal
+&lt;/li&gt;&lt;li&gt;5 takeaways from Day 3 of COP26: A fossil-fuel breakthrough, $9 billion forest bill, climate 'debt traps'  CNN
+&lt;/li&gt;&lt;li&gt;At COP26…
+    </p>
+  </li>
+  <li>
+    <h3>
+      Pelosi Pushes House Toward Votes on Infrastructure, Social-Spending Bills - The Wall Street Journal
+    </h3>
+    <p>
+      Andrew Duehren, Richard Rubin, Natalie Andrews
+    </p>
+    <p>
+      &lt;ol&gt;&lt;li&gt;Pelosi Pushes House Toward Votes on Infrastructure, Social-Spending Bills  The Wall Street Journal
+&lt;/li&gt;&lt;li&gt;Manchin calls election results a 'wake-up call,' reacts to impact on Biden agenda  Fox News
+&lt;/li&gt;&lt;li&gt;Pelosi: Paid leave added back into Biden…
+    </p>
+  </li>
+  <li>
+    <h3>
+      Inside the World’s Most Blatant Covid-19 Coverup - The Wall Street Journal
+    </h3>
+    <p>
+      Joe Parkinson, Samantha Reinders for The Wall Street Journal
+    </p>
+    <p>
+      Tanzania denied the existence of the pandemic for months, even as thousands likely died. The country is a clue to its hidden global toll.
+    </p>
+  </li>
+  <li>
+    <h3>
+      Moderna Cuts Covid-19 Vaccine Sales Forecast for 2021 - The Wall Street Journal
+    </h3>
+    <p>
+      Peter Loftus, Matt Grossman
+    </p>
+    <p>
+      &lt;ol&gt;&lt;li&gt;Moderna Cuts Covid-19 Vaccine Sales Forecast for 2021  The Wall Street Journal
+&lt;/li&gt;&lt;li&gt;Moderna cuts COVID-19 vaccine sales forecast  Reuters
+&lt;/li&gt;&lt;li&gt;Moderna Stock Tumbles After Q3 Earnings Miss, 2021 COVID Vaccine Sales Cut  TheStreet
+&lt;/li&gt;&lt;li&gt;Mo…
+    </p>
+  </li>
+  <li>
+    <h3>
+      AT&T, Verizon to Delay 5G Rollout Over FAA’s Airplane Safety Concerns
+    </h3>
+    <p>
+      Andrew Tangel And Drew Fitzgerald
+    </p>
+    <p>
+      Wireless carriers postpone planned Dec. 5 launch of new spectrum to address concerns about potential interference with cockpit safety systems
+    </p>
+  </li>
+  <li>
+    <h3>
+      In a Deal Desert, Warren Buffett’s Berkshire Hathaway Keeps Buying Itself
+    </h3>
+    <p>
+      Justin Baer
+    </p>
+    <p>
+      Analysts expect the Omaha conglomerate’s stock repurchases to hold steady in the third quarter
+    </p>
+  </li>
+  <li>
+    <h3>
+      Jobless Claims Extend Drop Toward Levels Seen Before Covid-19 - The Wall Street Journal
+    </h3>
+    <p>
+      Gabriel T. Rubin
+    </p>
+    <p>
+      &lt;ol&gt;&lt;li&gt;Jobless Claims Extend Drop Toward Levels Seen Before Covid-19  The Wall Street Journal
+&lt;/li&gt;&lt;li&gt;Jobless claims slide to pandemic-era low  Fox Business
+&lt;/li&gt;&lt;li&gt;Weekly jobless claims better than expected in another sign of healing for employment  CNB…
+    </p>
+  </li>
+  <li>
+    <h3>
+      Hertz Will Have to Wait for Teslas, Just Like Other Buyers
+    </h3>
+    <p>
+      Emily Glazer And Nora Naughton
+    </p>
+    <p>
+      Companies in talks over timing of deliveries for 100,000 Tesla order
+    </p>
+  </li>
+  <li>
+    <h3>
+      GOOGLE to Pursue Pentagon Cloud-Computing Contract...
+    </h3>
+    <p>
+      Tripp Mickle
+    </p>
+    <p>
+      Company pulled out of bidding for similar project three years ago amid employee complaints about doing military work
+    </p>
+  </li>
+  <li>
+    <h3>
+      Epstein Accusers Seek Justice at Ghislaine Trial...
+    </h3>
+    <p>
+      James Fanelli, Corinne Ramey
+    </p>
+    <p>
+      Epstein Accusers Seek Justice at Ghislaine Trial...
+
+ 
+ 
+ 
+ (Second column, 11th story, link)
+
+ 
+
+ 
+
+ 
+ Related stories:Lawyer says jail conditions rival Hannibal Lecter...
+    </p>
+  </li>
+  <li>
+    <h3>
+      Covid Lockdowns Ripple Across China...
+    </h3>
+    <p>
+      Liyan Qi, Natasha Khan
+    </p>
+    <p>
+      Covid Lockdowns Ripple Across China...
+
+ 
+ 
+ 
+ (Second column, 14th story, link)
+
+ 
+
+ 
+
+ 
+ Related stories:STUDY: 28 million years of life lost...
+WORLD SICK MAP...
+    </p>
+  </li>
+  <li>
+    <h3>
+      Google Allows Alternate In-App Payment Options in South Korea, Though Familiar Fees Remain
+    </h3>
+    <p>
+      Jiyoung Sohn
+    </p>
+    <p>
+      Google Allows Alternate In-App Payment Options in South Korea, Though Familiar Fees Remainwsj.com
+    </p>
+  </li>
+  <li>
+    <h3>
+      Inflation Debate Hangs Over Stock Market’s Record Run - The Wall Street Journal
+    </h3>
+    <p>
+      Amrith Ramkumar, Sebastian Pellejero
+    </p>
+    <p>
+      &lt;ol&gt;&lt;li&gt;Inflation Debate Hangs Over Stock Market’s Record Run  The Wall Street Journal
+&lt;/li&gt;&lt;li&gt;Fed to taper bond purchases by $15B a month as it unwinds pandemic-era stimulus  Fox Business
+&lt;/li&gt;&lt;li&gt;European shares at record high as Fed unveils taper plan; …
+    </p>
+  </li>
+  <li>
+    <h3>
+      Pregnant Women Who Doubt Covid-19 Vaccine Safety Worry Doctors - The Wall Street Journal
+    </h3>
+    <p>
+      Robbie Whelan
+    </p>
+    <p>
+      &lt;ol&gt;&lt;li&gt;Pregnant Women Who Doubt Covid-19 Vaccine Safety Worry Doctors  The Wall Street Journal
+&lt;/li&gt;&lt;li&gt;Your Healthy Family: Women having boys get fewer COVID-19 antibodies  FOX 4 Now
+&lt;/li&gt;&lt;li&gt;Why doctors are so worried about pregnant people getting COVID-…
+    </p>
+  </li>
+  <li>
+    <h3>
+      Credit Suisse Revamps Business in Post-Archegos Overhaul - The Wall Street Journal
+    </h3>
+    <p>
+      Margot Patrick
+    </p>
+    <p>
+      The Swiss bank said Thursday its central mission will be catering to the world’s rich
+    </p>
+  </li>
+  <li>
+    <h3>
+      MGM Plans to Sell Mirage Operations in Las Vegas
+    </h3>
+    <p>
+      Kimberly Chin
+    </p>
+    <p>
+      Expected deal is the latest transaction by the casino operator as it focuses more on new business areas like sports betting
+    </p>
+  </li>
+  <li>
+    <h3>
+      Voters Cancel the War on Police - The Wall Street Journal
+    </h3>
+    <p>
+      The Editorial Board
+    </p>
+    <p>
+      &lt;ol&gt;&lt;li&gt;Voters Cancel the War on Police  The Wall Street Journal
+&lt;/li&gt;&lt;li&gt;Ballot initiative to replace police department in Minneapolis fails  CNN
+&lt;/li&gt;&lt;li&gt;Minneapolis voters reject measure to replace police department  Fox News
+&lt;/li&gt;&lt;li&gt;Voters wisely reje…
+    </p>
+  </li>
+  <li>
+    <h3>
+      Biden’s COP26 Strategy Is to Blame China and Russia While Securing Climate Deals - The Wall Street Journal
+    </h3>
+    <p>
+      Timothy Puko, Andrew Restuccia
+    </p>
+    <p>
+      &lt;ol&gt;&lt;li&gt;Biden’s COP26 Strategy Is to Blame China and Russia While Securing Climate Deals  The Wall Street Journal
+&lt;/li&gt;&lt;li&gt;Menu at COP26 mocked by climate activists over meat and fish selection  Fox News
+&lt;/li&gt;&lt;li&gt;The world doesn't spend nearly enough prepar…
+    </p>
+  </li>
+  <li>
+    <h3>
+      Bed Bath & Beyond Stock Surge Recalls Meme Mania - The Wall Street Journal
+    </h3>
+    <p>
+      Caitlin McCabe
+    </p>
+    <p>
+      &lt;ol&gt;&lt;li&gt;Bed Bath & Beyond Stock Surge Recalls Meme Mania  The Wall Street Journal
+&lt;/li&gt;&lt;li&gt;Bed Bath & Beyond surge is a 'moment in time': CEO Tritton  CNBC Television
+&lt;/li&gt;&lt;li&gt;Bed Bath & Beyond shares soar more than 80% in after-hours trading  CNBC
+&lt;/li&gt;&lt;l…
+    </p>
+  </li>
+  <li>
+    <h3>
+      Where Are All the Truck Drivers? Shortage Adds to Delivery Delays...
+    </h3>
+    <p>
+      Jennifer Smith
+    </p>
+    <p>
+      Where Are All the Truck Drivers? Shortage Adds to Delivery Delays...
+
+ 
+ 
+ 
+ (Second column, 16th story, link)
+
+ 
+
+ 
+
+ 
+ Related stories:Cargo thefts spike as backlog of container ships continues to grow...
+
+ 
+
+ 
+ 
+ Drudge Report Feed needs your support…
+    </p>
+  </li>
+</ul>
+`;
