@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Shows a list of articles should display a list of articles containing an input keyword 1`] = `
+<ul
+  aria-label="articles"
+>
+  <li>
+    <h3>
+      Hertz Orders 100k Teslas
+    </h3>
+    <p>
+      Dave Sebastian
+    </p>
+    <p>
+      Car-rental firm, recently emerged from bankruptcy under new ownership, orders vehicles by the end of 2022
+    </p>
+  </li>
+  <li>
+    <h3>
+      LEVIES ON UNSOLD ASSETS
+    </h3>
+    <p>
+      Richard Rubin
+    </p>
+    <p>
+      Sen. Ron Wyden releases details of plan to impose multibillion-dollar tax bills on people such as Amazon founder Jeff Bezos and Tesla CEO Elon Musk
+    </p>
+  </li>
+  <li>
+    <h3>
+      Tesla, Merck, Moderna: What to Watch When the Stock Market Opens Today
+    </h3>
+    <p>
+      James Willhite
+    </p>
+    <p>
+      Tesla reported record deliveries in the third quarter; Merck shares were extending gains from last week
+    </p>
+  </li>
+</ul>
+`;
